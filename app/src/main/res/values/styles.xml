@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppTheme.FULLSCREEN">
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
 </resources>
